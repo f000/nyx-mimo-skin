@@ -23,7 +23,9 @@
 
 }
 
-.adsbygoogle, .nyxcz-responsive{
-	display:none;
-	visibility:collapse;
+.adsbygoogle,
+.nyxcz-responsive,
+ins.adsbygoogle.nyxcz-responsive{
+	display:none!important;
+	visibility:collapse!important;
 }
