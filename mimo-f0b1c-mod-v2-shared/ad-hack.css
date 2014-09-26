@@ -22,22 +22,8 @@
 	visibility:collapse !important;
 
 }
-/*
-div.header div.friends *, div.header div.friends,
-div.header div.nick *, div.header div.nick,
-div.header div.i *, div.header div.i,
-div.header #header_form div.modes *, div.header #header_form div.modes,
 
-div.header div.time *, div.header div.time
-div.header div.systext *, div.header div.systext,
-div.header a.mail *, div.header a.mail,
-div.header div.search_box #qsearch_select, div.header div.search_box #qsearch_box, div.header div.search_box #search_submit, div.header div.search_box,
-div.header div.search_box #qsearch_select *, div.header div.search_box #qsearch_box *, div.header div.search_box #search_submit * { 
-	display: block !important;
-	visibility: visible!important;	
+.adsbygoogle, .nyxcz-responsive{
+	display:none;
+	visibility:collapse;
 }
-
-div.header div.statmsg, div.header div.search_box #qsearch_from, div.header div.search_box #qsearch_from *{
-	visibility: visible;
-}
-*/
