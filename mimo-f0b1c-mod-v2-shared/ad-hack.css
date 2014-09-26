@@ -1,0 +1,43 @@
+
+/***************************************************************************
+*
+* This script is part of MIMO.cz V2 skin - reincarnation of legendary
+* MIMO.cz skin originally created by EMBRYO @ nyx.cz
+*
+* Title:		Ad hack
+* Project:		MIMO.cz V2 skin for nyx.cz
+* Author:		F0B1C @ nyx
+* Modified: 	2010-12-16
+*
+***************************************************************************/
+
+
+#reklama_inner{
+	display:none;
+	visibility:collapse;
+}
+
+#reklama_inner *{
+	display:none !important;
+	visibility:collapse !important;
+
+}
+/*
+div.header div.friends *, div.header div.friends,
+div.header div.nick *, div.header div.nick,
+div.header div.i *, div.header div.i,
+div.header #header_form div.modes *, div.header #header_form div.modes,
+
+div.header div.time *, div.header div.time
+div.header div.systext *, div.header div.systext,
+div.header a.mail *, div.header a.mail,
+div.header div.search_box #qsearch_select, div.header div.search_box #qsearch_box, div.header div.search_box #search_submit, div.header div.search_box,
+div.header div.search_box #qsearch_select *, div.header div.search_box #qsearch_box *, div.header div.search_box #search_submit * { 
+	display: block !important;
+	visibility: visible!important;	
+}
+
+div.header div.statmsg, div.header div.search_box #qsearch_from, div.header div.search_box #qsearch_from *{
+	visibility: visible;
+}
+*/

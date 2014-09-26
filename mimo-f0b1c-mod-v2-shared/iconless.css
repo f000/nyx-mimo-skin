@@ -1,0 +1,115 @@
+
+/***************************************************************************
+*
+* This script is part of MIMO.cz V2 skin - reincarnation of legendary
+* MIMO.cz skin originally created by EMBRYO @ nyx.cz
+*
+* Title:		Iconless
+* Project:		MIMO.cz V2 skin for nyx.cz
+* Author:		F0B1C @ nyx
+* Modified: 	
+*
+***************************************************************************/
+@font-face {
+font-family: "entypo";
+src: url(//www.nyx.cz/fonts/entypo.eot);
+src: url(//www.nyx.cz/fonts/entypo.eot?#iefix) format('eot'),url(//www.nyx.cz/fonts/entypo.woff) format('woff'), url(//www.nyx.cz/fonts/entypo.ttf) format('truetype'), url(//www.nyx.cz/fonts/entypo.otf) format('opentype')
+}
+.icon-entypo, .icon-text{
+	display:none !important;
+}
+
+.tf-textarea-controls .icon-entypo,
+#mail_relations  .icon-entypo,
+#market-cats-box .icon-entypo,
+#topic_search .icon-entypo{
+	display:inline-block !important;
+	color:#444 !important;
+	font-family: "entypo";
+	font-size:18pt;
+}
+
+.tf-textarea-controls  .upload-wrapper .icon-entypo,
+.tf-textarea-controls  button .icon-entypo{
+	display:none !important;
+	
+}
+
+button img, .fakebutton img {
+	display: none
+}
+
+div.wcontrols span img{
+	display:none;
+}
+
+#footer_right img {
+	display: none
+}
+
+#footer_left img {
+	display: none
+}
+
+.tf-top-navbar-rating-filter-icon img{
+	display:none;
+}
+.tf-top-navbar-rating-filter-icon{
+	padding:0;
+
+
+}
+.tf-top-navbar-rating-filter-icon:before{
+	content: " +/- " !important;
+	color:#4b4b4b!important;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	position:relative;
+	top:-3px;
+}
+
+.tf-top-navbar-rating-filter-icon:before:hover{
+	color:#000!important;
+}
+
+
+a#rtm_status:after{
+	content:"IM";		
+}
+
+#new_notifications:before{
+	content:"NOTIFIKACE";		
+	
+}
+
+ body.lang-en #new_notifications:before{
+	content:"NOTIFICATIONS";		
+	
+}
+
+a#rtm_status img{
+	display:none;
+}
+
+ul.m.l1 li.r.i2 a img,
+ul.m.l1 li.r.i1 a img{
+	display:none;
+	$display:inline;
+}
+
+ul.m.l1 li.r.img a{
+	display:block;
+	line-height: 14px;
+	padding-left: 2px;
+	color: #fff;
+	text-transform:uppercase;
+	text-decoration: none; 
+	background-color: #252525;
+	cursor:pointer;
+}
+
+form#header_form div.search_box #search_submit,
+.wdl,.wrl{
+	display:none!important;
+}

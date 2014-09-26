@@ -1,0 +1,83 @@
+
+/***************************************************************************
+*
+* This script is part of MIMO.cz V2 skin - reincarnation of legendary
+* MIMO.cz skin originally created by EMBRYO @ nyx.cz
+*
+* Title:		8pt variant
+* Project:		MIMO.cz V2 skin for nyx.cz
+* Author:		F0B1C @ nyx
+* Modified:     2009-01-23
+*
+***************************************************************************/
+
+
+body{
+	font-size: 8pt;
+}
+
+
+.w br{
+	line-height:1em;
+}
+
+ul.m span, div#footer a, ul.m.l1 li.r a {
+	font-size:6pt;
+	font-family: 'Lucida Grande', Arial, Helvetica, sans-serif;
+	overflow:hidden;
+}
+
+ul.m span, ul.m.l1 li.r.img a{
+	width: 63px;
+	padding-top:1px;
+}
+
+.b h2{
+	padding:0px 0;	
+}
+
+.b h2{
+	$padding-bottom:2px;
+}
+
+#im_block, #im_block_left ,#im_block_right{
+	width: 150px;
+}
+
+#im_block, #im_block_left ,#im_block_right,.ac_results li,#wvm a{
+	font-size: 6pt;
+	text-transform: uppercase;
+	font-family: 'Lucida Grande', Arial, Helvetica, sans-serif;
+}
+
+div.wc{
+	padding: 4px 2px 0;
+	min-height:27px;
+
+}
+
+div.wc{
+	$min-height:24px;
+	_height:29px;
+}
+
+div.wh, div.wf{
+	line-height:19px;
+}
+
+div.wh, div.wf{	
+	$line-height:17px;
+	$padding-bottom:2px;
+}
+
+#gate_events .vevent h3{
+	font-size:8pt;
+}
+
+textarea{
+	font-size:8pt;
+}
+
+input[type~=file]{
+	font-size:8pt;
+}

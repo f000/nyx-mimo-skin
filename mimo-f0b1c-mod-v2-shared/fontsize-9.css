@@ -1,0 +1,97 @@
+
+/***************************************************************************
+*
+* This script is part of MIMO.cz V2 skin - reincarnation of legendary
+* MIMO.cz skin originally created by EMBRYO @ nyx.cz
+*
+* Title:		9pt variant
+* Project:		MIMO.cz V2 skin for nyx.cz
+* Author:		F0B1C @ nyx
+* Modified:     2009-01-23
+*
+***************************************************************************/
+
+body{
+	font-size: 9pt;
+}
+
+.w br{
+	line-height:1.2em;
+}
+
+ul.m span, div#footer a, ul.m.l1 li.r a{
+	font-size:7pt;
+	font-family: 'Lucida Grande', Arial, Helvetica, sans-serif;
+	width: 70px;
+	padding-top:1px;
+	overflow:hidden;
+}
+
+.b h2{
+	padding:1px 0;	
+}
+
+.b h2{
+	$padding-bottom:3px;
+}
+
+#im_block, #im_block_left ,#im_block_right{
+	width: 180px;
+}
+
+#im_block, #im_block_left ,#im_block_right,.ac_results li,#wvm a {
+	font-size: 7pt;
+	text-transform: uppercase;
+	font-family:'Lucida Grande', Arial, Helvetica, sans-serif;
+}
+
+div.wc{
+	padding: 3px 2px;
+	min-height:25px;
+}
+
+div.wc{
+	$min-height:24px;
+	_height:29px;
+}
+
+div.wh, div.wf{
+	line-height:21px;
+}
+
+div.wh, div.wf{
+	$line-height:19px;
+	$padding-bottom:2px;
+}
+
+#gate_events .vevent h3{
+	font-size:9pt;
+}
+
+textarea{
+	font-size:8pt;
+}
+
+input, .fakebutton{
+	background-color: #d6d7be;
+	margin: 1px;
+	border: solid 1px #d6d7be;
+	height: 22px;
+	font-size:8pt;
+	font-weight:normal;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	color:#252525;
+}
+
+input[type=button], input[type=submit]{
+	background-color: #524f46;
+	border: solid 1px #524f46;
+	color: #fff;
+	position:relative;
+	top:0px;
+	padding:2px 5px;
+}
+
+input[type~=file]{
+	font-size:8pt;
+}
