@@ -6,9 +6,9 @@ Slightly outdated, but useful.
 
 ## URLs
 
-* [Preferred variant](https://f000.github.io/nyx-mimo-skin/mimo-f0b1c-mod-v2-91)
-* [No ads & OS X font](https://f000.github.io/nyx-mimo-skin/mimo-f0b1c-mod-v2-81)
-* [Large font](https://f000.github.io/nyx-mimo-skin/mimo-f0b1c-mod-v2-9)
+* Preferred variant `https://f000.github.io/nyx-mimo-skin/mimo-f0b1c-mod-v2-91`
+* No ads & OS X font `https://f000.github.io/nyx-mimo-skin/mimo-f0b1c-mod-v2-81`
+* Large font `https://f000.github.io/nyx-mimo-skin/mimo-f0b1c-mod-v2-9`
 
 ## Changes
   
