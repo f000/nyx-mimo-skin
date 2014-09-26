@@ -1,0 +1,13 @@
+# OS
+.directory
+.DS_Store
+.AppleDouble
+Thumbs.db
+Desktop.ini
+
+# IDE
+*.tmproj
+*.tmproject
+tmtags
+.~lock.
+
