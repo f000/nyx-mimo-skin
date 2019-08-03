@@ -1598,7 +1598,9 @@ span[class~=df]{
 }
 /* */
 .wc img, .bc img{
-	float: none
+	float: none;
+	max-width: 100%;
+	height: auto;
 }
 
 
